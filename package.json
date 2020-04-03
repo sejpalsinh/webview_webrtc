@@ -12,8 +12,5 @@
     "express": "^4.16.4",
     "simple-peer": "^9.2.1",
     "socket.io": "^2.2.0"
-  },
-  "devDependencies": {
-    "watchify": "^3.11.1"
   }
 }
